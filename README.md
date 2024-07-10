@@ -17,4 +17,6 @@ The software logs into the website and navigates to the appropriate page. It the
 
 ![code for parsing](https://private-user-images.githubusercontent.com/172160258/347293192-f7d82bd0-ca17-4afe-abb6-b97119068cef.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjA1OTUyNzEsIm5iZiI6MTcyMDU5NDk3MSwicGF0aCI6Ii8xNzIxNjAyNTgvMzQ3MjkzMTkyLWY3ZDgyYmQwLWNhMTctNGFmZS1hYmI2LWI5NzExOTA2OGNlZi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNzEwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDcxMFQwNzAyNTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lZDY3OWI3NDFkYzE4Y2U0MjU2NzI1MGQxNGRkYTQ3YzQ0YTdlNTYzODQ1ZmM1ZDZjNWU4ZjhlMmU4ZmNlMjFmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.EVnBHKG_wqbt1-i2XR90VI6AYv7dMm8QmfDcseX2bdI)
 
+## Note
+You will need to generate a credentials file from google in order to use the google_sheets api. The process is a little complicated so I reccomend following a tutorial. When you have the credential file simply place it in the same directory as the rest of the files.
 # Thank you for your time 
